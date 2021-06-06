@@ -28,3 +28,19 @@ TI19A2
 ![7](https://user-images.githubusercontent.com/56241285/120919266-da299980-c6e2-11eb-818b-0cd026d1e0fd.png)
 ### About
 ![8](https://user-images.githubusercontent.com/56241285/120919273-e281d480-c6e2-11eb-9ebb-2488a0c47e6f.png)
+# TUGAS
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+## Langkah 1
+### Buat file lab9_tugas
+![9](https://user-images.githubusercontent.com/56241285/120919405-9daa6d80-c6e3-11eb-85cd-101363aa7013.png)
+## Langkah 2 
+### Buat file baru dengan nama koneksi.php pada folder dan masukan codingannya
+![10](https://user-images.githubusercontent.com/56241285/120919502-2c1eef00-c6e4-11eb-8d35-a2965ac962eb.png)
+## Langkah 3
+### Buat file baru dengan nama header.php pada folder lab9_tugas dan masukan codingannya
+![11](https://user-images.githubusercontent.com/56241285/120919599-a0f22900-c6e4-11eb-9bb0-af9272e379f2.png)
+## Langkah 4
+### Buat file baru dengan nama footer.php pada folder lab9_tugas dan masukan codingannya
+![12](https://user-images.githubusercontent.com/56241285/120919773-7b195400-c6e5-11eb-9ee8-8317a5e880e4.png)
+## Langkah 
+### Buat file baru dengan nama home.php pada folder lab9_tugas dan masukan codingannya
