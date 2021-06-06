@@ -17,3 +17,14 @@ TI19A2
 ## Langkah 4
 ### Buat file baru dengan nama footer.php pada folder lab9_php_modular
 ![4](https://user-images.githubusercontent.com/56241285/120918860-e01e7b00-c6e0-11eb-89f4-f5c600f41ff0.png)
+## Langkah 5 
+### Buat file baru dengan nama home.php pada folder lab9_php_modular
+![5](https://user-images.githubusercontent.com/56241285/120918955-54591e80-c6e1-11eb-9ae6-1bbb8302621f.png)
+## Langkah 6
+### Buat file baru dengan nama about.php pada folder lab9_php_modular
+![6](https://user-images.githubusercontent.com/56241285/120919172-66878c80-c6e2-11eb-9ffe-70dddafdb3ff.png)
+## Hasil
+### Home
+![7](https://user-images.githubusercontent.com/56241285/120919266-da299980-c6e2-11eb-818b-0cd026d1e0fd.png)
+### About
+![8](https://user-images.githubusercontent.com/56241285/120919273-e281d480-c6e2-11eb-9ebb-2488a0c47e6f.png)
