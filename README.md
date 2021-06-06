@@ -10,7 +10,7 @@ TI19A2
 ![1](https://user-images.githubusercontent.com/56241285/120918611-6fc32a00-c6df-11eb-9e5d-e57e35fee754.png)
 ## Langkah 2
 ### Buat file lab9_php_modular
-![2](https://user-images.githubusercontent.com/56241285/120918665-ba44a680-c6df-11eb-9d95-793783c06408.png)
+![2](https://user-images.githubusercontent.com/56241285/120919372-6c31a200-c6e3-11eb-9aff-647412c5c7ea.png)
 ## Langkah 3
 ### Buat file baru dengan nama header.php pada folder lab9_php_modular, lalu masukan codingnya
 ![3](https://user-images.githubusercontent.com/56241285/120918798-743c1280-c6e0-11eb-91dd-c73e6a41969c.png)
