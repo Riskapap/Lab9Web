@@ -45,3 +45,30 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ## Langkah 5
 ### Buat file baru dengan nama home.php pada folder lab9_tugas dan masukan codingannya
 ![13](https://user-images.githubusercontent.com/56241285/121005536-209df780-c7ba-11eb-8440-78cb9b0fe4e1.png)
+![14](https://user-images.githubusercontent.com/56241285/121005834-678bed00-c7ba-11eb-87f1-cf40d617349c.png)
+## Langkah 6
+### Buat file baru dengan nama tambah.php pada folder lab9_tugas
+![15](https://user-images.githubusercontent.com/56241285/121006768-7d4de200-c7bb-11eb-818a-a51a3f1e8700.png)
+![16](https://user-images.githubusercontent.com/56241285/121006796-8343c300-c7bb-11eb-93f3-958a84a504d7.png)
+![17](https://user-images.githubusercontent.com/56241285/121006813-88087700-c7bb-11eb-9603-91c83fe00f71.png)
+## Langkah 7
+### Buat file baru dengan nama ubah.php pada folder lab9_tugas
+![18](https://user-images.githubusercontent.com/56241285/121007298-111fae00-c7bc-11eb-8fa5-8e4c92c28719.png)
+![19](https://user-images.githubusercontent.com/56241285/121007313-17158f00-c7bc-11eb-82da-0434fab4ef9b.png)
+![20](https://user-images.githubusercontent.com/56241285/121007322-1a107f80-c7bc-11eb-9d71-5daf523980bf.png)
+## Langkah 8
+### Buat file baru dengan nama hapus.php pada folder lab9_tugas
+![21](https://user-images.githubusercontent.com/56241285/121007918-986d2180-c7bc-11eb-847b-92e1f77faa55.png)
+## Langkah 9
+### Buat file baru dengan nama style.css pada folder lab9_tugas
+![22](https://user-images.githubusercontent.com/56241285/121008803-96f02900-c7bd-11eb-8ea0-dc6b62dd4378.png)
+![23](https://user-images.githubusercontent.com/56241285/121008823-9ce60a00-c7bd-11eb-85e9-89c9189237bc.png)
+![24](https://user-images.githubusercontent.com/56241285/121008830-9fe0fa80-c7bd-11eb-822e-33119999d730.png)
+![25](https://user-images.githubusercontent.com/56241285/121008845-a4a5ae80-c7bd-11eb-9566-1f4794565dad.png)
+## Hasil
+### Tampilan Home
+![26](https://user-images.githubusercontent.com/56241285/121009169-0d8d2680-c7be-11eb-87d3-1d5fc7bd5276.png)
+### Tampilan Tambah Barang
+![27](https://user-images.githubusercontent.com/56241285/121009230-1b42ac00-c7be-11eb-8431-db699f0d290a.png)
+### Tampilan Ubah Barang
+![28](https://user-images.githubusercontent.com/56241285/121009270-27c70480-c7be-11eb-8026-b646aaa80490.png)
