@@ -42,5 +42,6 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ## Langkah 4
 ### Buat file baru dengan nama footer.php pada folder lab9_tugas dan masukan codingannya
 ![12](https://user-images.githubusercontent.com/56241285/120919773-7b195400-c6e5-11eb-9ee8-8317a5e880e4.png)
-## Langkah 
+## Langkah 5
 ### Buat file baru dengan nama home.php pada folder lab9_tugas dan masukan codingannya
+![13](https://user-images.githubusercontent.com/56241285/121005536-209df780-c7ba-11eb-8440-78cb9b0fe4e1.png)
